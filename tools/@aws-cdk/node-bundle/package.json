@@ -50,7 +50,7 @@
     "esbuild": "^0.14.27",
     "fs-extra": "^10.0.1",
     "license-checker": "^25.0.1",
-    "madge": "^5.0.1",
+    "madge": "^8.0.0",
     "shlex": "^2.1.0",
     "yargs": "^17.4.0"
   },
